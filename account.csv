@@ -1,0 +1,3 @@
+﻿id,email,username,password,score
+USR-3470014f-e52c-4f3d-b656-6fa178659870,user@example.com,Rama,scrypt:32768:8:1$D0CmmLvFiAWGgslc$ca3a2257983935984b6a4cd4578fea2acb7c09c774ec77eda6f218bab416760d6aaca085d360a58d6eb732a93b4566f8c69ba2b3592fd811a415162c2a8ddcb5,4
+USR-83ed1a8d-ea41-47a4-b7c3-1e2f5f4c2087,userBaru@example.com,userBaru,scrypt:32768:8:1$N2VOlAL4KGRIGKWU$2c2cc62fd5485c8c81b26e72d17b8948829564bc5612a337d80d57576e18b97e676acb6fe473dfe6b6b59e476166acfdcd64bd0eb430b686e12154389858f005,0
